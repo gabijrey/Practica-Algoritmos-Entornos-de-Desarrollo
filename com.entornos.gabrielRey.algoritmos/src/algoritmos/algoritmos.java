@@ -4,7 +4,7 @@ public class algoritmos {
 	public algoritmos() {
 		
 	}
-	public int algoritmos(int numero) throws Exception{
+	public int fibonacci(int numero){
 		//Si el numero es menor a 0 lanza la Exception
 		if (numero < 0) throw new IllegalArgumentException();
 		
@@ -23,7 +23,7 @@ public class algoritmos {
 
         return resultado;
     }
-	public int factorial(int numero) throws Exception{
+	public int factorial(int numero){
 		//Si el numero es menor a 0 lanza la Exception
 		if (numero < 0) throw new IllegalArgumentException();
 				
