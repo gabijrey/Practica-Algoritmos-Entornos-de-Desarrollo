@@ -23,5 +23,15 @@ public class algoritmos {
 
         return resultado;
     }
-
+	public int factorial(int num) throws Exception{
+		//Si el numero es menor a 0 lanza la Exception
+		if (num < 0) throw new IllegalArgumentException();
+				
+		//Variable del resultado
+		 int resultado = 1;
+	     for (int i = 2; i <= num; i++) {
+	    	 resultado *= i;
+	     }
+	     return resultado;
+	}
 }
