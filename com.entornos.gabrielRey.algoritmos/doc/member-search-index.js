@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"algoritmos","c":"algoritmos","l":"algoritmos()","u":"%3Cinit%3E()"},{"p":"algoritmos","c":"algoritmos","l":"factorial(int)"},{"p":"algoritmos","c":"algoritmos","l":"fibonacci(int)"},{"p":"algoritmos","c":"algoritmos","l":"primo(int)"}];updateSearchResults();

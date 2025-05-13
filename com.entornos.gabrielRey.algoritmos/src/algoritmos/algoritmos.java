@@ -1,6 +1,6 @@
 package algoritmos;
 
-public abstract class algoritmos {
+public class algoritmos {
 	public algoritmos() {
 		
 	}

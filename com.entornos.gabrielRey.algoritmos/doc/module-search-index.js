@@ -1,0 +1,1 @@
+moduleSearchIndex = [{"l":"com.entornos.gabrielRey.algoritmos"}];updateSearchResults();
